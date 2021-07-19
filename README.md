@@ -1,2 +1,2 @@
 # Python-Foundations
-Perform basic operations related to data analysis. Learn how to read, explore and visualize data. Work with data frames and different libraries.
+Build the foundational skills for data analysis with Python, such as importing, reading, manipulating, and visualizing data.
